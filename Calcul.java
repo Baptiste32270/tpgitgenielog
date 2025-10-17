@@ -4,12 +4,12 @@ public class Calcul {
 
     /**
      * Additionne deux nombres.
+     * 
      * @param a Le premier nombre.
      * @param b Le deuxième nombre.
      * @return La somme de a et b.
      */
-    public double addition(double a, double b) {
-        return a + b;
+    return a+b;
     }
 
     /**
